@@ -24,5 +24,5 @@ A web application built with **Streamlit** and **Google Gemini API** (`gemini-3.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/code-generator.git](https://github.com/YOUR_USERNAME/code-generator.git)
+   git clone [https://github.com/BadrAlawlaqi/code-generator.git](https://github.com/BadrAlawlaqi/code-generator.git)
    cd code-generator
